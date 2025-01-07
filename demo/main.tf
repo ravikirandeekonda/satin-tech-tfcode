@@ -1,4 +1,4 @@
 module "netmod" {
-  source = "git::https://github.com/ravikirandeekonda/satin-tech-tfcode.git/demo"
+  source = "git::https://github.com/ravikirandeekonda/satin-tech-tfcode.git"
 }
 
